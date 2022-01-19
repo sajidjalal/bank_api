@@ -1,0 +1,1 @@
+[2021-08-31T16:32:58.450181+00:00] validateToken.INFO: {"status_code":200,"user_data":{"role_id":"2","user_id":"2","mobile_number":"9325587960","first_name":"Admin","email":"admin@techmerge.co","iat":1630427577,"exp":1630445577},"message":"success"} [] []

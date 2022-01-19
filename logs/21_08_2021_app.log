@@ -1,0 +1,2 @@
+[2021-08-21T09:52:57.715814+00:00] validateToken.INFO: {"status_code":200,"user_data":{"role_id":"2","user_id":"2","mobile_number":"9325587960","first_name":"sajid jalal","email":"sajidjalal8013@gmail.com","iat":1629539577,"exp":1629557577},"message":"success"} [] []
+[2021-08-21T09:53:22.550130+00:00] validateToken.INFO: {"status_code":200,"user_data":{"role_id":"2","user_id":"2","mobile_number":"9325587960","first_name":"sajid jalal","email":"sajidjalal8013@gmail.com","iat":1629539577,"exp":1629557577},"message":"success"} [] []
